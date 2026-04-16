@@ -2,6 +2,8 @@
 
 ![](./promo.png)
 
+Article: [Od design tokenów do zmiennych, czyli Style Dictionary w akcji](https://ryrych.pl/posts/od-design-tokenow-do-zmiennych/).
+
 Tokens are built with [Style Dictionary](https://amzn.github.io/style-dictionary/#/).
 The repository is the *source of truth* for the following repositories:
 
